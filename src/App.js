@@ -13,7 +13,32 @@ function App() {
           <Dictionary defaultKeyword="Hello" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Jade Knowles</small>
+          <small>
+            This project was coded by{" "}
+            <a
+              href="https://linkedin.com/in/jadeknowles"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Jade Knowles
+            </a>{" "}
+            and is open-sourced on{" "}
+            <a
+              href="https://github.com/codewordjade/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://musing-swirles-b9b402.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>

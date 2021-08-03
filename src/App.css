@@ -3,11 +3,11 @@ body {
 }
 
 a {
-  color: cadetblue;
+  color: black;
 }
 
 .title {
-  color: snow;
+  color: black;
   text-align: center;
   font-size: 50px;
   font-weight: bold;
